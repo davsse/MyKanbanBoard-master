@@ -1,0 +1,168 @@
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\ApplicationInsights.config
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\roslyn\csc.exe
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\roslyn\vbc.exe
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\roslyn\VBCSCompiler.exe
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\KanbanBoard.dll.config
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\KanbanBoard.dll
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\KanbanBoard.pdb
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\Antlr3.Runtime.dll
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\EntityFramework.dll
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\EntityFramework.SqlServer.dll
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\Microsoft.AI.Web.dll
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\Microsoft.ApplicationInsights.dll
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\Microsoft.Owin.dll
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\Microsoft.Owin.Security.dll
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\Newtonsoft.Json.dll
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\Owin.dll
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\System.Web.Helpers.dll
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\System.Web.Mvc.dll
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\System.Web.Optimization.dll
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\System.Web.Razor.dll
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\System.Web.WebPages.Deployment.dll
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\System.Web.WebPages.dll
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\System.Web.WebPages.Razor.dll
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\WebGrease.dll
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\Microsoft.AI.Web.xml
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\Microsoft.ApplicationInsights.xml
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\System.Web.Helpers.xml
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\System.Web.Mvc.xml
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\System.Web.Optimization.xml
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\System.Web.Razor.xml
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\System.Web.WebPages.xml
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\System.Web.WebPages.Deployment.xml
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\System.Web.WebPages.Razor.xml
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\Antlr3.Runtime.pdb
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\Newtonsoft.Json.xml
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\EntityFramework.xml
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\EntityFramework.SqlServer.xml
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\Microsoft.Owin.xml
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\Microsoft.Owin.Security.xml
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\obj\Debug\KanbanBoard.Migrations.Todo1.resources
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\obj\Debug\KanbanBoard.csproj.GenerateResource.Cache
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\obj\Debug\KanbanBoard.dll
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\obj\Debug\KanbanBoard.pdb
+C:\Users\David\documents\visual studio 2015\Projects\KanbanBoard\KanbanBoard\obj\Debug\KanbanBoard.csprojResolveAssemblyReference.cache
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\ApplicationInsights.config
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\roslyn\csc.exe
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\roslyn\Microsoft.Build.Tasks.CodeAnalysis.dll
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\roslyn\Microsoft.CodeAnalysis.CSharp.dll
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\roslyn\Microsoft.CodeAnalysis.dll
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\roslyn\Microsoft.CodeAnalysis.VisualBasic.dll
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\roslyn\Microsoft.CSharp.Core.targets
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\roslyn\Microsoft.VisualBasic.Core.targets
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\roslyn\System.Collections.Immutable.dll
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\roslyn\System.Reflection.Metadata.dll
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\roslyn\vbc.exe
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\roslyn\VBCSCompiler.exe
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\roslyn\VBCSCompiler.exe.config
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\KanbanBoard.dll.config
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\KanbanBoard.dll
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\KanbanBoard.pdb
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\Antlr3.Runtime.dll
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\EntityFramework.dll
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\EntityFramework.SqlServer.dll
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\Microsoft.AI.Agent.Intercept.dll
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\Microsoft.AI.DependencyCollector.dll
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\Microsoft.AI.PerfCounterCollector.dll
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\Microsoft.AI.ServerTelemetryChannel.dll
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\Microsoft.AI.Web.dll
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\Microsoft.AI.WindowsServer.dll
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\Microsoft.ApplicationInsights.dll
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\Microsoft.AspNet.Identity.Core.dll
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\Microsoft.AspNet.Identity.EntityFramework.dll
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\Microsoft.AspNet.Identity.Owin.dll
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.dll
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\Microsoft.Owin.dll
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\Microsoft.Owin.Host.SystemWeb.dll
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\Microsoft.Owin.Security.Cookies.dll
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\Microsoft.Owin.Security.dll
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\Microsoft.Owin.Security.Facebook.dll
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\Microsoft.Owin.Security.Google.dll
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\Microsoft.Owin.Security.MicrosoftAccount.dll
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\Microsoft.Owin.Security.OAuth.dll
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\Microsoft.Owin.Security.Twitter.dll
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\Microsoft.Web.Infrastructure.dll
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\Newtonsoft.Json.dll
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\Owin.dll
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\System.Web.Helpers.dll
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\System.Web.Mvc.dll
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\System.Web.Optimization.dll
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\System.Web.Razor.dll
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\System.Web.WebPages.Deployment.dll
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\System.Web.WebPages.dll
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\System.Web.WebPages.Razor.dll
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\WebGrease.dll
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\Microsoft.AI.DependencyCollector.xml
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\Microsoft.AI.ServerTelemetryChannel.xml
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\Microsoft.AI.Web.xml
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\Microsoft.AI.WindowsServer.xml
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\Microsoft.ApplicationInsights.xml
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\Microsoft.CodeDom.Providers.DotNetCompilerPlatform.xml
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\System.Web.Helpers.xml
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\System.Web.Mvc.xml
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\System.Web.Optimization.xml
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\System.Web.Razor.xml
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\System.Web.WebPages.xml
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\System.Web.WebPages.Deployment.xml
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\System.Web.WebPages.Razor.xml
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\Antlr3.Runtime.pdb
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\Newtonsoft.Json.xml
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\EntityFramework.xml
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\EntityFramework.SqlServer.xml
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\Microsoft.AspNet.Identity.Core.xml
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\Microsoft.AspNet.Identity.Owin.xml
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\Microsoft.AspNet.Identity.EntityFramework.xml
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\Microsoft.Owin.xml
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\Microsoft.Owin.Host.SystemWeb.xml
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\Microsoft.Owin.Security.xml
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\Microsoft.Owin.Security.Facebook.xml
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\Microsoft.Owin.Security.Cookies.xml
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\Microsoft.Owin.Security.OAuth.xml
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\Microsoft.Owin.Security.Google.xml
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\Microsoft.Owin.Security.Twitter.xml
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\bin\Microsoft.Owin.Security.MicrosoftAccount.xml
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\obj\Debug\KanbanBoard.Migrations.Todo1.resources
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\obj\Debug\KanbanBoard.csproj.GenerateResource.Cache
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\obj\Debug\KanbanBoard.dll
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\obj\Debug\KanbanBoard.pdb
+C:\Users\David\Desktop\copy\MyKanbanBoard-master\KanbanBoard\obj\Debug\KanbanBoard.csprojResolveAssemblyReference.cache
